@@ -1,0 +1,237 @@
+,LONGNAME,name,STATION_ID,LINES,zone,lat,lon,jaro_score
+67,103rd Street (Beverly Hills),103rd Street (Beverly Hills),7128.0,Rock Is.,Zone 2,41.706224,-87.668884,1.0
+33,103rd Street (Rosemoor),103rd Street (Rosemoor),5130.0,Electric,Zone 2,41.706983,-87.607304,1.0
+34,107th Street,107th Street,5135.0,Electric,Zone 2,41.699607,-87.608997,1.0
+68,107th Street (Beverly Hills),107th Street (Beverly Hills),7133.0,Rock Is.,Zone 2,41.699022,-87.669756,1.0
+35,111th Street,111th Street,5140.0,Electric,Zone 2,41.692722,-87.610574,1.0
+35,111th Street,107th Street,5140.0,Electric,Zone 2,41.699607,-87.608997,0.888888888888889
+69,111th Street (Morgan Park),111th Street (Morgan Park),7138.0,Rock Is.,Zone 2,41.692676,-87.670533,1.0
+70,115th Street (Morgan Park),115th Street (Morgan Park),7143.0,Rock Is.,Zone 2,41.685032,-87.671456,1.0
+71,119th Street,119th Street,7148.0,Rock Is.,Zone 2,41.676576,-87.672483,1.0
+72,123rd Street,123rd Street,7152.0,Rock Is.,Zone 2,41.670346,-87.673584,1.0
+81,143rd Street (Orland Park),143rd Street (Orland Park),8236.0,SWS,Zone 4,41.631816,-87.858284,1.0
+39,147th Street (Sibley Boulevard),147th Street (Sibley Boulevard),5190.0,Electric,Zone 2,41.622699,-87.635967,1.0
+82,153rd Street (Orland Park),153rd Street (Orland Park),8248.0,SWS,Zone 4,41.611246,-87.873282,1.0
+83,179th Street (Orland Park),179th Street (Orland Park),8289.0,SWS,Zone 4,41.56381,-87.902486,1.0
+19,18th Street,18th Street,5022.0,Electric,Zone 2,41.857918,-87.618033,1.0
+46,211th Street (Lincoln Highway),211th Street (Lincoln Highway),5276.0,Electric,Zone 3,41.50631,-87.698144,1.0
+21,27th Street,27th Street,5032.0,Electric,Zone 2,41.844244,-87.613467,1.0
+22,47th Street (Kenwood),47th Street (Kenwood),5059.0,Electric,Zone 2,41.809541,-87.591262,1.0
+23,53rd Street (Hyde Park),53rd Street (Hyde Park),5065.0,Electric,Zone 2,41.799711,-87.587009,1.0
+24,55th-56th-57th Street,55th-56th-57th Street,5070.0,Electric,Zone 2,41.793272,-87.587641,1.0
+25,59th Street (University of Chicago),59th Street (University of Chicago),5074.0,"Electric, S. Shore",Zone 2,41.787652,-87.588946,1.0
+26,63rd Street,63rd Street,5079.0,"Electric, S. Shore",Zone 2,41.779863,-87.590699,1.0
+27,75th Street (Grand Crossing),75th Street (Grand Crossing),5093.0,Electric,Zone 2,41.758978,-87.595437,1.0
+28,79th Street (Chatham),79th Street (Chatham),5100.0,Electric,Zone 2,41.750852,-87.597284,1.0
+59,80th Avenue (Tinley Park),80th Avenue (Tinley Park),6251.0,Rock Is.,Zone 4,41.564439,-87.809547,1.0
+5,83rd Street,83rd Street,1120.0,Electric,Zone 2,41.74538,-87.551571,1.0
+29,83rd Street (Avalon Park),83rd Street (Avalon Park),5104.0,Electric,Zone 2,41.744226,-87.598793,1.0
+6,87th Street,87th Street,1125.0,Electric,Zone 2,41.738188,-87.548295,1.0
+30,87th Street (Woodruff),87th Street (Woodruff),5109.0,Electric,Zone 2,41.736968,-87.600446,1.0
+64,91st Street (Beverly Hills),91st Street (Beverly Hills),7113.0,Rock Is.,Zone 2,41.727982,-87.667174,1.0
+64,91st Street (Beverly Hills),95th Street (Beverly Hills),7113.0,Rock Is.,Zone 2,41.721474,-87.667506,0.9506172839506174
+31,91st Street (Chesterfield),91st Street (Chesterfield),5114.0,Electric,Zone 2,41.729736,-87.602097,1.0
+7,91st Street (South Chicago),93rd Street (South Chicago),1130.0,Electric,Zone 2,41.726963,-87.547785,0.8703703703703703
+65,95th Street (Beverly Hills),91st Street (Beverly Hills),7117.0,Rock Is.,Zone 2,41.727982,-87.667174,0.9506172839506174
+65,95th Street (Beverly Hills),95th Street (Beverly Hills),7117.0,Rock Is.,Zone 2,41.721474,-87.667506,1.0
+32,95th Street (Chicago State University),95th Street (Chicago State University),5120.0,Electric,Zone 2,41.721763,-87.603938,1.0
+66,99th Street (Beverly Hills),99th Street (Beverly Hills),7123.0,Rock Is.,Zone 2,41.713743,-87.66732,1.0
+206,Antioch,Antioch,16528.0,NCS,Zone 4,42.481459,-88.092344,1.0
+167,Arlington Heights,Arlington Heights,13228.0,UP-NW,Zone 3,42.084143,-87.983688,1.0
+168,Arlington Park,Arlington Park,13244.0,UP-NW,Zone 3,42.095444,-88.009061,1.0
+76,Ashburn,Ashburn,8126.0,SWS,Zone 2,41.74189,-87.712457,1.0
+13,Ashland Avenue,Ashland Avenue,4179.0,Electric,Zone 2,41.669389,-87.660639,1.0
+112,Aurora,Aurora,10380.0,BNSF,Zone 4,41.759471,-88.309103,1.0
+170,Barrington,Barrington,13319.0,UP-NW,Zone 4,42.15289,-88.132166,1.0
+151,Bartlett,Bartlett,12301.0,Milw-W,Zone 4,41.992513,-88.186114,1.0
+118,Bellwood,Bellwood,11126.0,UP-W,Zone 2,41.891432,-87.882675,1.0
+108,Belmont,Belmont,10226.0,BNSF,Zone 4,41.795464,-88.038118,1.0
+144,Bensenville,Bensenville,12172.0,Milw-W,Zone 3,41.95702,-87.941829,1.0
+119,Berkeley,Berkeley,11143.0,UP-W,Zone 2,41.89618,-87.91575,1.0
+92,Berwyn,Berwyn,10096.0,BNSF,Zone 2,41.833312,-87.793519,1.0
+154,Big Timber Road,Big Timber Road,12398.0,Milw-W,Zone 4,42.058654,-88.327867,1.0
+15,Blue Island,Blue Island,4189.0,Electric,Zone 2,41.656006,-87.675906,1.0
+54,Blue Island (Vermont Street),Blue Island (Vermont Street),6157.0,Rock Is.,Zone 2,41.654709,-87.677576,1.0
+218,Braeside,Braeside,17205.0,UP-N,Zone 3,42.152784,-87.772685,1.0
+63,Brainerd,Brainerd,7106.0,Rock Is.,Zone 2,41.732226,-87.658968,1.0
+96,Brookfield,Brookfield,10123.0,BNSF,Zone 2,41.822138,-87.843239,1.0
+1,Bryn Mawr,Bryn Mawr,1097.0,Electric,Zone 2,41.766154,-87.577146,1.0
+199,Buffalo Grove,Buffalo Grove,16295.0,NCS,Zone 4,42.169109,-87.941447,1.0
+14,Burr Oak,Burr Oak,4184.0,Electric,Zone 2,41.66234,-87.668805,1.0
+42,Calumet,Calumet,5228.0,Electric,Zone 2,41.572888,-87.662665,1.0
+172,Cary,Cary,13386.0,UP-NW,Zone 4,42.209112,-88.241405,1.0
+211,Central Street (Evanston),Central Street (Evanston),17133.0,UP-N,Zone 2,42.064012,-87.698187,1.0
+4,Cheltenham (79th Street),Cheltenham (79th Street),1115.0,Electric,Zone 2,41.752153,-87.55267,1.0
+78,Chicago Ridge,Chicago Ridge,8168.0,SWS,Zone 3,41.703308,-87.780589,1.0
+90,Cicero,Cicero,10070.0,BNSF,Zone 2,41.844252,-87.745156,1.0
+104,Clarendon Hills,Clarendon Hills,10183.0,BNSF,Zone 3,41.79715,-87.954051,1.0
+156,Clybourn,Clybourn,13029.0,"UP-N, UP-NW",Zone 2,41.917366,-87.668177,1.0
+124,College Avenue,College Avenue,11238.0,UP-W,Zone 4,41.868301,-88.09037,1.0
+97,Congress Park,Congress Park,10131.0,BNSF,Zone 3,41.818917,-87.857571,1.0
+173,Crystal Lake,Crystal Lake,13432.0,UP-NW,Zone 4,42.244181,-88.317016,1.0
+165,Cumberland,Cumberland,13186.0,UP-NW,Zone 3,42.052292,-87.912279,1.0
+210,Davis Street (Evanston),Davis Street (Evanston),17120.0,UP-N,Zone 2,42.04783,-87.68469,1.0
+163,Dee Road,Dee Road,13150.0,UP-NW,Zone 2,42.024075,-87.85638,1.0
+188,Deerfield,Deerfield,15242.0,Milw-N,Zone 4,42.168019,-87.849777,1.0
+164,Des Plaines,Des Plaines,13171.0,UP-NW,Zone 3,42.040856,-87.886656,1.0
+181,Edgebrook,Edgebrook,15116.0,Milw-N,Zone 2,41.997817,-87.765724,1.0
+161,Edison Park,Edison Park,13126.0,UP-NW,Zone 2,42.002163,-87.817611,1.0
+137,Elburn,Elburn,0.0,UP-W,Zone 4,41.890746,-88.464135,1.0
+153,Elgin,Elgin,12366.0,Milw-W,Zone 4,42.036203,-88.286328,1.0
+120,Elmhurst,Elmhurst,11157.0,UP-W,Zone 3,41.899684,-87.940904,1.0
+140,Elmwood Park,Elmwood Park,12102.0,Milw-W,Zone 2,41.925028,-87.815165,1.0
+106,Fairview Avenue (Downers Grove),Fairview Avenue (Downers Grove),10204.0,BNSF,Zone 3,41.795563,-87.994003,1.0
+44,Flossmoor,Flossmoor,5249.0,Electric,Zone 3,41.543366,-87.67841,1.0
+180,Forest Glen,Forest Glen,15102.0,Milw-N,Zone 2,41.978186,-87.755533,1.0
+223,Fort Sheridan,Fort Sheridan,17257.0,UP-N,Zone 4,42.217394,-87.821115,1.0
+195,Fox Lake,Fox Lake,15495.0,Milw-N,Zone 4,42.398357,-88.18241,1.0
+171,Fox River Grove,Fox River Grove,13373.0,UP-NW,Zone 4,42.197834,-88.219463,1.0
+142,Franklin Park,Franklin Park,12132.0,Milw-W,Zone 2,41.936491,-87.8665,1.0
+131,Galewood,Galewood,12086.0,Milw-W,Zone 2,41.916574,-87.786443,1.0
+128,Geneva,Geneva,11355.0,UP-W,Zone 4,41.88155,-88.31007,1.0
+159,Gladstone Park,Gladstone Park,13101.0,UP-NW,Zone 2,41.979712,-87.77795,1.0
+123,Glen Ellyn,Glen Ellyn,11224.0,UP-W,Zone 4,41.876438,-88.064717,1.0
+217,Glencoe,Glencoe,17192.0,UP-N,Zone 3,42.135501,-87.758167,1.0
+184,Glenview,Glenview,15174.0,Milw-N,Zone 3,42.075007,-87.805848,1.0
+183,Golf,Golf,15162.0,Milw-N,Zone 3,42.058297,-87.79716,1.0
+244,Grand-Cicero,Grand / Cicero,0.0,Milw-W,Zone 2,41.914549,-87.746547,0.9007936507936508
+178,Grayland,Grayland,15082.0,Milw-N,Zone 2,41.948879,-87.740353,1.0
+191,Grayslake,Grayslake,15410.0,Milw-N,Zone 4,42.333605,-88.043351,1.0
+226,Great Lakes,Great Lakes,17322.0,UP-N,Zone 4,42.306985,-87.846626,1.0
+51,Gresham,Gresham,6098.0,Rock Is.,Zone 2,41.736988,-87.644524,1.0
+88,Halsted Street,Halsted Street,10018.0,BNSF,Zone 2,41.86034,-87.647279,1.0
+150,Hanover Park,Hanover Park,12284.0,Milw-W,Zone 4,41.988133,-88.149229,1.0
+130,Hanson Park,Hanson Park,12077.0,Milw-W,Zone 2,41.916723,-87.76688,1.0
+93,Harlem Avenue,Harlem Avenue,10101.0,BNSF,Zone 2,41.831422,-87.801949,1.0
+176,Harvard,Harvard,13631.0,UP-NW,Zone 4,42.41964,-88.617395,1.0
+40,Harvey,Harvey,5200.0,Electric,Zone 2,41.608434,-87.64369,1.0
+41,Hazel Crest,Hazel Crest,5223.0,Electric,Zone 2,41.580828,-87.658429,1.0
+177,Healy,Healy,15064.0,Milw-N,Zone 2,41.924744,-87.727865,1.0
+60,Hickory Creek,Hickory Creek,6275.0,Rock Is.,Zone 4,41.54879,-87.845705,1.0
+221,Highland Park,Highland Park,17230.0,UP-N,Zone 4,42.183271,-87.797592,1.0
+101,Highlands,Highlands,10164.0,BNSF,Zone 3,41.805228,-87.918325,1.0
+222,Highwood,Highwood,17245.0,UP-N,Zone 4,42.20336,-87.810709,1.0
+102,Hinsdale,Hinsdale,10169.0,BNSF,Zone 3,41.802981,-87.928273,1.0
+43,Homewood,Homewood,5235.0,Electric,Zone 3,41.562689,-87.668146,1.0
+216,Hubbard Woods,Hubbard Woods,17177.0,UP-N,Zone 3,42.118368,-87.743676,1.0
+214,Indian Hill,Indian Hill,17158.0,UP-N,Zone 3,42.094503,-87.723658,1.0
+194,Ingleside,Ingleside,15478.0,Milw-N,Zone 4,42.383803,-88.153548,1.0
+157,Irving Park,Irving Park,13070.0,UP-NW,Zone 2,41.953235,-87.731179,1.0
+146,Itasca,Itasca,12210.0,Milw-W,Zone 3,41.971624,-88.014061,1.0
+38,Ivanhoe,Ivanhoe,5182.0,Electric,Zone 2,41.633671,-87.63014,1.0
+158,Jefferson Park,Jefferson Park,13091.0,UP-NW,Zone 2,41.970762,-87.762123,1.0
+246,Joliet,Joliet,0.0,"Rock Is., Heritage",Zone 4,41.524245,-88.079177,1.0
+113,Kedzie,Kedzie,11036.0,UP-W,Zone 2,41.888286,-87.707053,1.0
+213,Kenilworth,Kenilworth,17152.0,UP-N,Zone 3,42.086303,-87.716901,1.0
+231,Kenosha,Kenosha,17516.0,UP-N,Zone 4,42.585806,-87.826019,1.0
+36,Kensington (115th Street),Kensington (115th Street),5145.0,"Electric, S. Shore",Zone 2,41.685719,-87.612147,1.0
+136,La Fox,La Fox,0.0,UP-W,Zone 4,41.886717,-88.411811,1.0
+98,LaGrange Road,LaGrange Road,10138.0,BNSF,Zone 3,41.815899,-87.870973,1.0
+50,LaSalle Street,LaSalle Street,6000.0,Rock Is.,Zone 1,41.876237,-87.632204,1.0
+91,LaVergne,LaVergne,10091.0,BNSF,Zone 2,41.835447,-87.784006,1.0
+225,Lake Bluff,Lake Bluff,17302.0,UP-N,Zone 4,42.279835,-87.846743,1.0
+187,Lake Cook Road,Lake Cook Road,15230.0,Milw-N,Zone 3,42.15186,-87.841054,1.0
+224,Lake Forest,Lake Forest,17283.0,UP-N,Zone 4,42.252444,-87.839787,1.0
+189,Lake Forest,Lake Forest (West),15280.0,Milw-N,Zone 4,42.22367,-87.874586,0.8703703703703703
+205,Lake Villa,Lake Villa,16482.0,NCS,Zone 4,42.417549,-88.079273,1.0
+86,Lemont,Lemont,9253.0,Heritage,Zone 3,41.673793,-88.002569,1.0
+190,Libertyville,Libertyville,15355.0,Milw-N,Zone 4,42.291047,-87.956216,1.0
+109,Lisle,Lisle,10245.0,BNSF,Zone 4,41.797948,-88.071918,1.0
+87,Lockport,Lockport,9329.0,Heritage,Zone 4,41.584787,-88.060461,1.0
+122,Lombard,Lombard,11199.0,UP-W,Zone 3,41.886365,-88.019034,1.0
+193,Long Lake,Long Lake,15460.0,Milw-N,Zone 4,42.367879,-88.12803,1.0
+52,Longwood (95th Street),Longwood (95th Street),6109.0,Rock Is.,Zone 2,41.720944,-87.650448,1.0
+107,Main Street (Downers Grove),Main Street (Downers Grove),10212.0,BNSF,Zone 4,41.795534,-88.009873,1.0
+209,Main Street (Evanston),Main Street (Evanston),17110.0,UP-N,Zone 2,42.03361,-87.680141,1.0
+138,Manhattan,Manhattan,0.0,SWS,Zone 4,41.418952,-87.988721,1.0
+143,Mannheim,Mannheim,12140.0,Milw-W,Zone 2,41.941773,-87.884052,1.0
+132,Mars,Mars,12091.0,Milw-W,Zone 2,41.919288,-87.794401,1.0
+47,Matteson,Matteson,5282.0,Electric,Zone 3,41.498553,-87.702339,1.0
+179,Mayfair,Mayfair,15090.0,Milw-N,Zone 2,41.960214,-87.746208,1.0
+116,Maywood,Maywood,11105.0,UP-W,Zone 2,41.888342,-87.838687,1.0
+20,McCormick Place,McCormick Place,5027.0,"Electric, S. Shore",Zone 2,41.851392,-87.616227,1.0
+174,McHenry,McHenry,13506.0,UP-NW,Zone 4,42.343574,-88.276159,1.0
+147,Medinah,Medinah,12230.0,Milw-W,Zone 3,41.978558,-88.052362,1.0
+117,Melrose Park,Melrose Park,11113.0,UP-W,Zone 2,41.890245,-87.855863,1.0
+56,Midlothian,Midlothian,6184.0,Rock Is.,Zone 2,41.626232,-87.712202,1.0
+16,Millenium Station,Millennium Station,5000.0,"Electric, S. Shore",Zone 1,41.88367,-87.623205,0.9814814814814815
+61,Mokena,Mokena,6296.0,Rock Is.,Zone 4,41.531018,-87.886744,1.0
+139,Mont Clare,Mont Clare,12095.0,Milw-W,Zone 2,41.921875,-87.801544,1.0
+182,Morton Grove,Morton Grove,15143.0,Milw-N,Zone 2,42.034976,-87.785024,1.0
+166,Mount Prospect,Mount Prospect,13200.0,UP-NW,Zone 3,42.062976,-87.936196,1.0
+202,Mundelein,Mundelein,16369.0,NCS,Zone 4,42.266886,-87.99784,1.0
+18,Museum Campus/11th St,Museum Campus / 11th St.,5014.0,"Electric, S. Shore",Zone 1,41.868458,-87.621541,0.9265873015873015
+110,Naperville,Naperville,10285.0,BNSF,Zone 4,41.779769,-88.14556,1.0
+152,National Street,National Street,12360.0,Milw-W,Zone 4,42.026435,-88.278637,1.0
+62,New Lenox,New Lenox,6340.0,Rock Is.,Zone 4,41.514536,-87.965225,1.0
+227,North Chicago,North Chicago,17332.0,UP-N,Zone 4,42.328786,-87.837131,1.0
+185,North Glenview,North Glenview,15188.0,Milw-N,Zone 3,42.097575,-87.815743,1.0
+186,Northbrook,Northbrook,15211.0,Milw-N,Zone 3,42.126865,-87.827772,1.0
+160,Norwood Park,Norwood Park,13114.0,UP-NW,Zone 2,41.991631,-87.798982,1.0
+196,O'Hare Transfer,O'Hare Transfer,16171.0,NCS,Zone 2,41.995666,-87.880617,1.0
+57,Oak Forest,Oak Forest,6204.0,Rock Is.,Zone 3,41.604375,-87.738616,1.0
+114,Oak Park (Marion Street),Oak Park (Marion Street),11085.0,UP-W,Zone 2,41.887048,-87.801528,1.0
+155,Ogilvie Transportation Center,Ogilvie Transportation Center,13000.0,"UP-N, UP-NW, UP-W",Zone 1,41.882835,-87.64065,1.0
+45,Olympia Fields,Olympia Fields,5266.0,Electric,Zone 3,41.521168,-87.690235,1.0
+169,Palatine,Palatine,13268.0,UP-NW,Zone 4,42.112841,-88.04817,1.0
+134,Palos Heights,Palos Heights,0.0,SWS,Zone 3,41.681975,-87.807174,1.0
+80,Palos Park,Palos Park,8203.0,SWS,Zone 4,41.668346,-87.821026,1.0
+162,Park Ridge,Park Ridge,13135.0,UP-NW,Zone 2,42.010131,-87.831703,1.0
+133,Pingree Rd.,Pingree Road,0.0,UP-NW,Zone 4,42.234141,-88.298058,0.914141414141414
+203,Prairie Crossing (Libertyville),Prairie Crossing (Libertyville),16407.0,NCS,Zone 4,42.317943,-88.017335,1.0
+240,Prairie Crossing/Libertyville,Prairie Crossing,0.0,Milw-N,Zone 4,42.320884,-88.015051,0.8505747126436782
+240,Prairie Crossing/Libertyville,Prairie Crossing (Libertyville),0.0,Milw-N,Zone 4,42.317943,-88.017335,0.9562476826103078
+73,Prairie Street,Prairie Street,7158.0,Rock Is.,Zone 2,41.662408,-87.675052,1.0
+200,Prairie View,Prairie View,16316.0,NCS,Zone 4,42.198091,-87.955675,1.0
+197,Prospect Heights,Prospect Heights,16240.0,NCS,Zone 3,42.09233,-87.907889,1.0
+12,Racine Avenue,Racine Avenue,4170.0,Electric,Zone 2,41.6741,-87.651968,1.0
+207,Ravenswood,Ravenswood,17065.0,UP-N,Zone 2,41.968251,-87.674415,1.0
+220,Ravinia,Ravinia,17215.0,UP-N,Zone 3,42.165038,-87.782961,1.0
+219,Ravinia Park,Ravinia Park,17212.0,UP-N,Zone 3,42.157618,-87.7767,1.0
+48,Richton Park,Richton Park,5293.0,Electric,Zone 3,41.48583,-87.709156,1.0
+115,River Forest,River Forest,11097.0,UP-W,Zone 2,41.886859,-87.824621,1.0
+141,River Grove,River Grove,12114.0,"Milw-W, NCS",Zone 2,41.931022,-87.836432,1.0
+37,Riverdale,Riverdale,5173.0,Electric,Zone 2,41.646483,-87.623272,1.0
+94,Riverside,Riverside,10111.0,BNSF,Zone 2,41.827328,-87.820221,1.0
+55,Robbins,Robbins,6172.0,Rock Is.,Zone 2,41.640853,-87.694537,1.0
+208,Rogers Park,Rogers Park,17094.0,UP-N,Zone 2,42.009321,-87.67555,1.0
+148,Roselle,Roselle,12239.0,Milw-W,Zone 4,41.981544,-88.067191,1.0
+241,Rosemont,Rosemont,0.0,NCS,Zone 2,41.975701,-87.873758,1.0
+192,Round Lake,Round Lake,15440.0,Milw-N,Zone 4,42.354652,-88.094014,1.0
+204,Round Lake Beach,Round Lake Beach,16459.0,NCS,Zone 4,42.385137,-88.065351,1.0
+111,Route 59,Route 59,10316.0,BNSF,Zone 4,41.778068,-88.208743,1.0
+149,Schaumburg,Schaumburg,12265.0,Milw-W,Zone 4,41.989253,-88.11823,1.0
+242,Schiller Park,Schiller Park,0.0,NCS,Zone 2,41.962843,-87.870378,1.0
+2,South Shore,South Shore,1103.0,Electric,Zone 2,41.76518,-87.565669,1.0
+9,State Street,State Street,4156.0,Electric,Zone 2,41.674421,-87.622077,1.0
+10,Stewart Ridge,Stewart Ridge,4160.0,Electric,Zone 2,41.674318,-87.631437,1.0
+99,Stone Avenue (LaGrange),Stone Avenue (LaGrange),10142.0,BNSF,Zone 3,41.814233,-87.878383,1.0
+0,Stony Island,Stony Island,1091.0,Electric,Zone 2,41.766067,-87.586953,1.0
+84,Summit,Summit,9119.0,Heritage,Zone 2,41.795023,-87.809703,1.0
+58,Tinley Park,Tinley Park,6235.0,Rock Is.,Zone 3,41.576018,-87.782759,1.0
+74,Union Station,Union Station,8000.0,"Milw-N, Milw-W, NCS, BNSF, Heritage, SWS",Zone 1,41.879286,-87.638976,1.0
+49,University Park,University Park,5315.0,Electric,Zone 3,41.45965,-87.723129,1.0
+17,Van Buren Street,Van Buren Street,5008.0,"Electric, S. Shore",Zone 1,41.877113,-87.623017,1.0
+201,Vernon Hills,Vernon Hills,16330.0,NCS,Zone 4,42.215501,-87.964739,1.0
+121,Villa Park,Villa Park,11178.0,UP-W,Zone 3,41.896399,-87.977405,1.0
+228,Waukegan,Waukegan,17359.0,UP-N,Zone 4,42.360098,-87.828138,1.0
+127,West Chicago,West Chicago,11300.0,UP-W,Zone 4,41.88108,-88.198992,1.0
+103,West Hinsdale,West Hinsdale,10178.0,BNSF,Zone 3,41.799089,-87.945474,1.0
+11,West Pullman,West Pullman,4167.0,Electric,Zone 2,41.674202,-87.642298,1.0
+129,Western Avenue,Western Avenue,12029.0,"Milw-N, Milw-W, NCS",Zone 2,41.889089,-87.688276,1.0
+89,Western Avenue,Western Avenue,10038.0,BNSF,Zone 2,41.857688,-87.685454,1.0
+100,Western Springs,Western Springs,10155.0,BNSF,Zone 3,41.809084,-87.901212,1.0
+105,Westmont,Westmont,10195.0,BNSF,Zone 3,41.795604,-87.976372,1.0
+125,Wheaton,Wheaton,11250.0,UP-W,Zone 4,41.864392,-88.112091,1.0
+198,Wheeling,Wheeling,16272.0,NCS,Zone 3,42.136522,-87.927167,1.0
+85,Willow Springs,Willow Springs,9175.0,Heritage,Zone 3,41.733397,-87.878341,1.0
+212,Wilmette,Wilmette,17144.0,UP-N,Zone 2,42.077337,-87.709376,1.0
+3,Windsor Park,Windsor Park,1109.0,Electric,Zone 2,41.758446,-87.559456,1.0
+126,Winfield,Winfield,11275.0,UP-W,Zone 4,41.869905,-88.156813,1.0
+215,Winnetka,Winnetka,17166.0,UP-N,Zone 3,42.105372,-87.732762,1.0
+230,Winthrop Harbor,Winthrop Harbor,17445.0,UP-N,Zone 4,42.482774,-87.816227,1.0
+145,Wood Dale,Wood Dale,12191.0,Milw-W,Zone 3,41.962376,-87.974775,1.0
+175,Woodstock,Woodstock,13516.0,UP-NW,Zone 4,42.317064,-88.447429,1.0
+79,Worth,Worth,8182.0,SWS,Zone 3,41.691444,-87.796002,1.0
+75,Wrightwood,Wrightwood,8112.0,SWS,Zone 2,41.74891,-87.703491,1.0
+229,Zion,Zion,17421.0,UP-N,Zone 4,42.449496,-87.81807,1.0

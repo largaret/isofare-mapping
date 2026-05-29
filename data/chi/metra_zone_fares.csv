@@ -1,0 +1,11 @@
+source,target,fare
+Zone 1,Zone 2,3.75
+Zone 1,Zone 3,5.5
+Zone 1,Zone 4,6.75
+Zone 2,Zone 3,3.75
+Zone 2,Zone 4,3.75
+Zone 3,Zone 4,3.75
+Zone 1,Zone 1,3.75
+Zone 2,Zone 2,3.75
+Zone 3,Zone 3,3.75
+Zone 4,Zone 4,3.75

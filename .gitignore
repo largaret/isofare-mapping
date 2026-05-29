@@ -11,3 +11,9 @@ wheels/
 
 # Local notes
 notes/
+
+# large graph data
+data/osmnx_data/
+
+# cache
+cache/
